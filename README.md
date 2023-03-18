@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a React developer and working on making a website to help users find their lost items.<br>👯 I am looking forward to collaborate with more like minded people in the open source community.<br>🌱 I am currently learning more about frontend and backend development.<br><br> 
+🔭 I'm currently a Flutter developer and currently working on making an ecommerce app about fashion clothes, which has JWT based authentication system and a payment gateway.<br>👯 I am looking forward to collaborate with more like minded people in the open source and Flutter community.<br>🌱 I am currently learning more about frontend and backend development.<br><br> 
 
 
 ## 🌐 Socials:
