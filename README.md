@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a Flutter developer.<br>👯 I am looking forward to collaborate with more like minded people in the open source and Flutter community.<br>🌱 I am currently learning more about frontend and backend development.<br><br> 
+🔭 I'm a Flutter and Android(Kotlin) developer.<br>👯 I am looking forward to collaborate with more like minded people in the open source and Flutter community.<br>🌱 I am currently learning more about frontend and backend development.<br><br> 
 
 
 ## 🌐 Socials:
